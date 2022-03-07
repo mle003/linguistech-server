@@ -4,7 +4,7 @@ const router = new express.Router();
 const authHandlers = require("./modules/auth")
 
 router.get("/", (req, res) => {
-    res.send('Hello dmmm')
+    res.send('Hello dmm')
 })
 
 router.post("/api/auth/sign-up", authHandlers.signUp)
