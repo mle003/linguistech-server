@@ -6,7 +6,7 @@
   "author": "Minh Le <mle003@plattsburgh.edu>",
   "license": "MIT",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
