@@ -39,7 +39,7 @@ app.use((err, req, res, next) => {
 
 app.use(express.static("public"));
 
-app.listen(port, (err) => {
+app.listen(process.env.PORT || 9000, (err) => {
   console.log(err || `Server opened at port '${port}'`);
 })
 
