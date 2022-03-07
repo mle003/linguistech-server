@@ -1,12 +1,12 @@
 {
   "name": "app-server",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "repository": "https://github.com/mle003/app-server.git",
   "author": "Minh Le <mle003@plattsburgh.edu>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
