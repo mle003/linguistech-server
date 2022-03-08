@@ -11,7 +11,7 @@ const template = require("./template")
 
 const app = express()
 
-const port = 9000;
+const port = 8000;
 
 app.use(bodyParser.json({
   extended: true,
@@ -21,7 +21,7 @@ app.use(bodyParser.json({
 app.use(cors())
 app.use(
   session({
-    secret: "dmm",
+    secret: "dmquan",
     resave: false,
     saveUninitialized: false,
     cookie: { maxAge: 12 * 60 * 60}
