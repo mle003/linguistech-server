@@ -18,7 +18,7 @@ const handlers = {
       let user = await userModel.findOne({ userName: userName })
 
       if (!user) {
-        throw new Error("Invalid email");
+        throw new Error("Invalid username");
       }
       if (user.password != hashedPassword) {
         throw new Error("Invalid password");
