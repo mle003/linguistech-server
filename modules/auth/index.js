@@ -34,7 +34,7 @@ const handlers = {
 
     } catch (error) {
       error.status = 400
-      next(err)
+      next(error)
     }
   },
 
@@ -68,9 +68,6 @@ const handlers = {
 
       let user = await userModel.create(formattedData)
       let userData = user.toObject()
-      let accessToken = signToken({ _id: userData, userName: userData.userName });
-      userData.accessToken = accessToken;
-
       res.json(template.successRes(userData));
     } catch (error) {
       error.status = 400
