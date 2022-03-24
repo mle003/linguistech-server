@@ -11,7 +11,7 @@ const template = require("./template")
 
 const app = express()
 
-const port = 8000;
+const port = 9000;
 
 app.use(bodyParser.json({
   extended: true,
@@ -39,7 +39,7 @@ app.use((err, req, res, next) => {
 
 app.use(express.static("public"));
 
-app.listen(process.env.PORT || 9000, (err) => {
+app.listen(process.env.PORT || port, (err) => {
   console.log(err || `Server opened at port '${port}'`);
 })
 
