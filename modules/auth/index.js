@@ -2,7 +2,6 @@ const userModel = require("./model")
 const template = require("../../template")
 const nodemailer = require('nodemailer')
 const { hashMd5, signToken, verifyToken } = require("../utils");
-const { reset } = require("nodemon");
  
 const handlers = {
   async signIn(req, res, next) {
@@ -87,9 +86,7 @@ const handlers = {
         throw new Error("Email is not registered")
       }
       let userData = user.toObject()
-      let testAccount = await nodemailer.createTestAccount()
  
-      console.log('this')
       let token = signToken({ _id: userData, userName: userData.userName })
       let transport = nodemailer.createTransport({
         service: 'gmail',
@@ -105,9 +102,9 @@ const handlers = {
         text: "abcxyz",
         html: `
           <h2>Please click on given link to reset your password</h2>
-          <p>${process.env.CLIENT_URL}/reset-password/${token}</p>
+          <p>${process.env.CLIENT_URL}/reset-password?token=${token}</p>
         `
- 
+
       }
       let response = await new Promise((resolve, reject) => {
         transport.sendMail(dataRes, (err, info) => {
