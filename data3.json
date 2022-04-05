@@ -1,0 +1,42 @@
+[
+  {
+    "skill": "reading",
+    "type": "multiple-choice"
+  },
+  {
+    "skill": "reading",
+    "type": "multiple-choice"
+  },
+  {
+    "skill": "reading",
+    "type": "multiple-choice"
+  },
+  {
+    "skill": "reading",
+    "type": "multiple-choice"
+  },
+  {
+    "skill": "reading",
+    "type": "multiple-choice"
+  },
+  {
+    "type": "fill-in-the-blank",
+    "skill": "writing"
+  },
+  {
+    "type": "fill-in-the-blank",
+    "skill": "writing"
+  },
+  {
+    "type": "fill-in-the-blank",
+    "skill": "writing"
+  },
+  {
+    "type": "fill-in-the-blank",
+    "skill": "writing"
+  },
+  {
+    "type": "fill-in-the-blank",
+    "skill": "writing"
+  }
+]
