@@ -1,73 +1,70 @@
 [
   {
-    "topic": "Sports",
-    "word": "Arena",
-    "pronoun": "əˈrēnə",
-    "synonym": "stadium, ground",
-    "type": "noun",
-    "definition": "a level area for holding sports events, surrounded by seats for spectators",
-    "example": "The arena was full of excited spectators cheering on their team.",
-    "img": "https://static.educalingo.com/img/en/800/arena.jpg"
+    "skill": "listening",
+    "type": "multiple-choice",
+    "content": "I ___ in that company",
+    "full": "I invested in that company",
+    "a": "invested",
+    "b": "retarded",
+    "c": "lost",
+    "d": "consumed",
+    "answer": "a"
   },
   {
-    "topic": "Sports",
-    "word": "Amateur",
-    "pronoun": "ˈamədər,ˈaməˌtər,ˈaməCHər",
-    "synonym": "nonprofessional",
-    "type": "adj, noun",
-    "definition": "engaging or engaged in without payment; nonprofessional.",
-    "example": "it takes five years for a top amateur to become a real Tour de France rider",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Amateur_footballer.jpg"
+    "skill": "listening",
+    "type": "multiple-choice",
+    "content": "The weather is ___ and ___",
+    "full": "The weather is warm and sunny",
+    "a": "cold, foggy",
+    "b": "warm, sunny",
+    "c": "cool, windy",
+    "d": "freezing, snowy",
+    "answer": "b"
   },
   {
-    "topic": "Sports",
-    "word": "Athlete",
-    "pronoun": "ˈaTHˌlēt",
-    "synonym": "sportperson",
-    "type": "noun",
-    "definition": "a person who is proficient in sports and other forms of physical exercise.",
-    "example": "he had the broad-shouldered build of a natural athlete",
-    "img": "https://www.aljazeera.com/wp-content/uploads/2019/12/fb261c28eecc42f78fca8addddc8b6a1_18.jpeg?resize=770%2C513"
+    "skill": "listening",
+    "type": "multiple-choice",
+    "content": "I have two ___ and three ___",
+    "full": "I have two cats and three dogs",
+    "a": "cats, dinosaurs",
+    "b": "dogs, buffaloes",
+    "c": "cats, dogs",
+    "d": "freezing, snowy",
+    "answer": "c"
   },
   {
-    "topic": "Sports",
-    "word": "Athletics",
-    "pronoun": "ˌaTH(ə)ˈlediks",
-    "synonym": "sports, games",
-    "type": "noun",
-    "definition": "the sport of competing in track and field events, including running races and various competitions in jumping and throwing.",
-    "example": "There are some very good runners on our athletics team",
-    "img": "https://thumbs.dreamstime.com/b/athletics-symbols-25596909.jpg"
+    "skill": "listening",
+    "type": "multiple-choice",
+    "content": "I love playing _____ but I'm good at _____",
+    "full": "I love playing football but I'm good at soccer",
+    "a": "cats, dinosaurs",
+    "b": "dogs, buffaloes",
+    "c": "cats, dogs",
+    "d": "freezing, snowy",
+    "answer": "c"
   },
   {
-    "topic": "Sports",
-    "word": "Award",
-    "pronoun": "əˈwôrd",
-    "synonym": "grant",
-    "type": "verb",
-    "definition": "to give someone something as a reward for high achievement",
-    "example": "All the members of the winning team were awarded a gold medal.",
-    "img": "https://www.healthknowing.com/wp-content/uploads/2020/12/Award.jpg"
+    "skill": "listening",
+    "type": "multiple-choice",
+    "content": "How old is Smith?",
+    "full": "My name is Smith and I'm 42, sorry 45 years old",
+    "a": "42",
+    "b": "54",
+    "c": "45",
+    "d": "24",
+    "answer": "c"
   },
   {
-    "topic": "Sports",
-    "word": "Beat",
-    "pronoun": "bēt",
-    "synonym": "defeat",
-    "type": "verb",
-    "definition": "to defeat someone in a game or a competition",
-    "example": "Italy beat France to win the 2006 FIFA World Cup.",
-    "img": "https://i.ytimg.com/vi/TAj1sOEEcmQ/maxresdefault.jpg"
-  },
-  {
-    "topic": "Sports",
-    "word": "Captain",
-    "pronoun": "ˈkaptən",
-    "synonym": "commander",
-    "type": "noun",
-    "definition": "the leader of a team",
-    "example": "The captain usually leads his or her team onto the field.",
-    "img": "https://www.sportsmomsurvivalguide.com/wp-content/uploads/2018/03/Soccer-Captain.jpg"
+    "skill": "listening",
+    "type": "multiple-choice",
+    "content": "What is the phone number?",
+    "full": "Sorry, I have my number here. It's 543345646",
+    "a": "543145646",
+    "b": "542345646",
+    "c": "543345546",
+    "d": "543345646",
+    "answer": "d"
   }
+  
   
 ]

@@ -1,100 +1,136 @@
 [
   {
-    "topic": "Economic",
-    "word": "invest",
-    "type": "verb",
-    "definition": "To commit(money or capital) in order to gain a financial return",
-    "synonym": "capitalize, devote",
-    "pronoun": "in'vest",
-    "example": "expend money with the expectation of achieving a profit or material result by putting it into financial plans, shares, or property, or by using it to develop a commercial venture.",
-    "img": "https://cdn.thecollegeinvestor.com/wp-content/uploads/2016/11/WP_INVEST20.jpg"
+    "skill": "vocabulary",
+    "type": "multiple-choice",
+    "content": "I ___ in that company",
+    "a": "invested",
+    "b": "retarded",
+    "c": "lost",
+    "d": "consumed",
+    "answer": "a"
   },
   {
-    "topic": "Economic",
-    "word": "Business",
-    "pronoun": "'bizinis",
-    "synonym": "commercial, occupational",
-    "type": "noun",
-    "definition": "The occupation, work, or trade in which a person is engaged",
-    "example": "To invest money in a business enterprise",
-    "img": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_180152187_970679970450042_64007.jpg"
+    "skill": "vocabulary",
+    "type": "multiple-choice",
+    "content": "I ___ in that company",
+    "a": "requested",
+    "b": "invested",
+    "c": "lost",
+    "d": "consumed",
+    "answer": "b"
   },
   {
-    "topic": "Economic",
-    "word": "Budget",
-    "pronoun": "ˈbəjət",
-    "synonym": "accounts, statement",
-    "type": "noun",
-    "definition": "An estimate of income and expenditure for a set period of time.",
-    "example": "keep within the household budget",
-    "img": "https://www.workflowmax.com/hubfs/budget%20900x400v2.png"
+    "skill": "vocabulary",
+    "type": "multiple-choice",
+    "content": "I ___ in that company",
+    "a": "requested",
+    "b": "lost",
+    "c": "invested",
+    "d": "consumed",
+    "answer": "c"
   },
   {
-    "topic": "Economic",
-    "word": "Consumer",
-    "pronoun": "kənˈso͞omər",
-    "synonym": "purchaser, buyer, customer",
-    "type": "noun",
-    "definition": "a person who purchases goods and services for personal use.",
-    "example": "understanding what motivates consumers is more crucial than ever",
-    "img": "https://i.investopedia.com/dimages/graphics/business_to_consumer.png"
+    "skill": "vocabulary",
+    "type": "multiple-choice",
+    "content": "I ___ in that company",
+    "a": "requested",
+    "b": "lost",
+    "c": "invested",
+    "d": "consumed",
+    "answer": "c"
   },
   {
-    "topic": "Economic",
-    "word": "ˈrēˌtāl",
-    "pronoun": "kənˈso͞omər",
-    "type": "noun",
-    "definition": "the sale of goods to the public in relatively small quantities for use or consumption rather than for resale.",
-    "example": "the product's retail price",
-    "img": "https://i.investopedia.com/dimages/graphics/business_to_consumer.png"
+    "skill": "vocabulary",
+    "type": "multiple-choice",
+    "content": "I ___ in that company",
+    "a": "requested",
+    "b": "lost",
+    "c": "consumed",
+    "d": "invested",
+    "answer": "d"
   },
   {
-    "topic": "Economic",
-    "word": "Product",
-    "pronoun": "ˈprädəkt",
-    "synonym": "result, outcome",
-    "type": "noun",
-    "definition": "an article or substance that is manufactured or refined for sale",
-    "example": "understanding what motivates consumers is more crucial than ever",
-    "img": "https://i.investopedia.com/dimages/graphics/business_to_consumer.png"
+    "skill": "vocabulary",
+    "type": "multiple-choice",
+    "content": "What do this image describe?",
+    "imgUrl": "https://cdn.wallstreetmojo.com/wp-content/uploads/2019/11/Debit-1.jpg",
+    "a": "Debit",
+    "b": "Credit",
+    "c": "Loan",
+    "d": "Stock",
+    "answer": "a"
   },
   {
-    "topic": "Economic",
-    "word": "Competition",
-    "pronoun": "ˌkämpəˈtiSH(ə)n",
-    "synonym": "rivalry, contesting",
-    "type": "noun",
-    "definition": "the activity or condition of competing",
-    "example": "there is fierce competition between banks",
-    "img": "https://study.com/cimages/videopreview/videopreview-full/screen_shot_2015-09-24_at_5.44.18_pm_115495.jpg"
+    "skill": "vocabulary",
+    "type": "multiple-choice",
+    "content": "What do this image describe?",
+    "imgUrl": "https://cdn.wallstreetmojo.com/wp-content/uploads/2019/11/Debit-1.jpg",
+    "a": "Credit",
+    "b": "Debit",
+    "c": "Loan",
+    "d": "Stock",
+    "answer": "b"
   },
   {
-    "topic": "Economic",
-    "word": "Bankrupt",
-    "pronoun": "ˈbaNGkˌrəpt",
-    "synonym": "rivalry, contesting",
-    "type": "adjective",
-    "definition": "(of a person or organization) declared in law unable to pay outstanding debts.",
-    "example": "his father went bankrupt and the family had to sell their home",
-    "img": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-54879,resizemode-1,msid-21574753/analysis/when-and-how-to-file-for-bankruptcy.jpg"
+    "skill": "vocabulary",
+    "type": "multiple-choice",
+    "content": "What do this image describe?",
+    "imgUrl": "https://cdn.wallstreetmojo.com/wp-content/uploads/2019/11/Debit-1.jpg",
+    "a": "Credit",
+    "b": "Debit",
+    "c": "Loan",
+    "d": "Stock",
+    "answer": "b"
   },
   {
-    "topic": "Economic",
-    "word": "Credit",
-    "pronoun": "ˈkredət",
-    "synonym": "financial status, solvency",
-    "type": "noun",
-    "definition": "any agreement where one party borrows money from a second party with the promise to pay the amount back with interest. Credit ranges from consumer loans and credit cards to corporate bonds",
-    "example": "the columns should be added across and down and the total debits should equal the total credits",
-    "img": "https://blog.bitmex.com/wp-content/uploads/2017/10/Untitled.png"
+    "skill": "vocabulary",
+    "type": "multiple-choice",
+    "content": "What do this image describe?",
+    "imgUrl": "https://cdn.wallstreetmojo.com/wp-content/uploads/2019/11/Debit-1.jpg",
+    "a": "Credit",
+    "b": "Loan",
+    "c": "Debit",
+    "d": "Stock",
+    "answer": "c"
   },
   {
-    "topic": "Economic",
-    "word": "Debit",
-    "pronoun": "ˈdebit",
-    "type": "noun",
-    "definition": " an accounting entry that results in either an increase in assets or a decrease in liabilities on a company's balance sheet",
-    "example": "a double-entry system of bookkeeping, where each debit has a corresponding credit entry",
-    "img": "https://cdn.wallstreetmojo.com/wp-content/uploads/2019/11/Debit-1.jpg"
+    "skill": "vocabulary",
+    "type": "multiple-choice",
+    "content": "What do this image describe?",
+    "imgUrl": "https://cdn.wallstreetmojo.com/wp-content/uploads/2019/11/Debit-1.jpg",
+    "a": "Credit",
+    "b": "Loan",
+    "c": "Stock",
+    "d": "Debit",
+    "answer": "d"
+  },
+  {
+    "skill": "vocabulary",
+    "type": "fill-in-blank",
+    "content": "___ is any agreement where one party borrows money from a second party with the promise to pay the amount back with interest. Credit ranges from consumer loans and credit cards to corporate bonds",
+    "answer": "credit"
+  },
+  {
+    "skill": "vocabulary",
+    "type": "fill-in-blank",
+    "content": "___ is the perceptible natural movement of the air, especially in the form of a current of air blowing from a particular direction",
+    "answer": "wind"
+  },
+  {
+    "skill": "vocabulary",
+    "type": "fill-in-blank",
+    "content": "___ is the leader of a team",
+    "answer": "captain"
+  },
+  {
+    "skill": "vocabulary",
+    "type": "fill-in-blank",
+    "content": "___ is a waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait",
+    "answer": "duck"
   }
+  
+  
+  
+  
+  
 ]

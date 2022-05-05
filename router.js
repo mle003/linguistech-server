@@ -14,11 +14,14 @@ router.post("/api/auth/sign-up", authHandlers.signUp)
 router.post("/api/auth/sign-in", authHandlers.signIn)
 router.post("/api/auth/forgot-password", authHandlers.forgotPassword)
 router.post("/api/auth/reset-password", authHandlers.resetPassword)
+router.get("/api/update", authHandlers.update)
 
 //Vocab handler
 router.get("/api/vocab/get-vocab-by-topic", vocabHandlers.getVocabByTopic)
 
 //Question handler
 router.get("/api/question/get-question-by-type", questionHanlders.getQuestionsByType)
+router.get("/api/question/get-question-by-skill", questionHanlders.getQuestionsBySkill)
+
 
 module.exports = router

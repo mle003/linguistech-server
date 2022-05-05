@@ -23,6 +23,22 @@ const schema = new mongoose.Schema({
   password: {
     type: String,
     required: true,
+  },
+  vocab: {
+    type: Array,
+  },
+  reading: {
+    type: Array,
+  },
+  speaking: {
+    type: Array,
+  },
+  listening: {
+    type: Array,
+  },
+  index: {
+    type: Number,
+    index: true
   }
 })
 

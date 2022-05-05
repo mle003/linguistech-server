@@ -1,42 +1,44 @@
 [
   {
-    "skill": "reading",
-    "type": "multiple-choice"
+    "skill": "speaking",
+    "type": "speaking",
+    "content": "Reapeat this paragraph",
+    "full": "I invested in that company"
   },
   {
-    "skill": "reading",
-    "type": "multiple-choice"
+    "skill": "speaking",
+    "type": "speaking",
+    "content": "Reapeat this paragraph",
+    "full": "I haven't bailed on writing. Look, I'm generating a random paragraph at this very moment in an attempt to get my writing back on track. I am making an effort. I will start writing consistently again!"
   },
   {
-    "skill": "reading",
-    "type": "multiple-choice"
+    "skill": "speaking",
+    "type": "speaking",
+    "content": "Reapeat this paragraph",
+    "full": "She wanted a pet platypus but ended up getting a duck and a ferret instead."
   },
   {
-    "skill": "reading",
-    "type": "multiple-choice"
+    "skill": "speaking",
+    "type": "speaking",
+    "content": "Reapeat this paragraph",
+    "full": "It was easy to spot her. All you needed to do was look at her socks. They were never a matching pair. One would be green while the other would be blue. One would reach her knee while the other barely touched her ankle. Every other part of her was perfect, but never the socks. They were her micro act of rebellion."
   },
   {
-    "skill": "reading",
-    "type": "multiple-choice"
+    "skill": "speaking",
+    "type": "speaking",
+    "content": "Reapeat this paragraph",
+    "full": "There are different types of secrets. She had held onto plenty of them during her life, but this one was different. She found herself holding onto the worst type."
   },
   {
-    "type": "fill-in-the-blank",
-    "skill": "writing"
+    "skill": "speaking",
+    "type": "speaking",
+    "content": "Reapeat this paragraph",
+    "full": "It's not his fault. I know you're going to want to, but you can't blame him. He really has no idea how it happened. I kept trying to come up with excuses I could say to mom that would keep her calm when she found out what happened, but the more I tried, the more I could see none of them would work."
   },
   {
-    "type": "fill-in-the-blank",
-    "skill": "writing"
-  },
-  {
-    "type": "fill-in-the-blank",
-    "skill": "writing"
-  },
-  {
-    "type": "fill-in-the-blank",
-    "skill": "writing"
-  },
-  {
-    "type": "fill-in-the-blank",
-    "skill": "writing"
+    "skill": "speaking",
+    "type": "speaking",
+    "content": "Reapeat this paragraph",
+    "full": "The headphones were on. They had been utilized on purpose. She could hear her mom yelling in the background, but couldn't make out exactly what the yelling was about."
   }
 ]
